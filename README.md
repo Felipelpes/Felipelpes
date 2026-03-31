@@ -40,6 +40,7 @@
 
 <p align="left">
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Felipelpes&show_icons=true&theme=tokyonight&count_private=true" />
+  
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Felipelpes&layout=compact&theme=tokyonight" />
 </p>
 
