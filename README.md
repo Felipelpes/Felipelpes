@@ -10,8 +10,8 @@
   <a href="https://github.com/Felipelpes">
     <img src="https://img.shields.io/badge/GitHub-Felipelpes-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/oreidosites">
-    <img src="https://img.shields.io/badge/Instagram-@O-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://linkedin.com/oreidosite">
+    <img src="https://img.shields.io/badge/linkedin-@O-E4405F?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
